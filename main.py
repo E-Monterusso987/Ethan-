@@ -1,4 +1,4 @@
-count = 0
+count = 0//hi. ethan
 
 
 def guessingFood():
